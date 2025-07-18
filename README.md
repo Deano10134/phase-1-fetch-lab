@@ -13,7 +13,7 @@ receive a collection of data, structured like a nested JavaScript `Object`.
 ### What's an API?
 
 An **API**, or application programming interface, is a manner in which companies
-and organizations, like Twitter or the New York City government, or the super
+and organizations, like Twitter (known as X now) or the New York City government, or the super
 fans behind the Game of Thrones API, expose their data and/or functionality to
 the public (i.e. talented programmers like yourself) for use. APIs allow us to
 add important data and functionality to the applications we build. You can think
